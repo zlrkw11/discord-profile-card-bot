@@ -1,0 +1,8 @@
+create function: 
+msg = !create 
+
+!add name nate
+!add age 19
+
+record the user.tag into json file
+read off it
